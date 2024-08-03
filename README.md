@@ -13,7 +13,7 @@ The `EscrowMarketplace` smart contract facilitates an escrow service for online 
 <b>4. Dispute Resolution:</b> Provides a mechanism for resolving disputes by refunding the buyer.
 
 # Sepolia Deployed Contract Address 
-[(0x39b8637C5DDb2dF076d16B04778f55C84615EDD6)](https://sepolia.etherscan.io/address/0x39b8637c5ddb2df076d16b04778f55c84615edd6#code)
+[0x39b8637C5DDb2dF076d16B04778f55C84615EDD6](https://sepolia.etherscan.io/address/0x39b8637c5ddb2df076d16b04778f55c84615edd6#code)
 
 
 # License
